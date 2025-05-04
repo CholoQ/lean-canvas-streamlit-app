@@ -1,0 +1,9 @@
+# 仮想環境フォルダ
+venv/
+# Pythonキャッシュファイル
+__pycache__/
+*.pyc
+# OS固有ファイル (Mac)
+.DS_Store
+# (もしあれば) ローカル環境変数ファイル
+.env
